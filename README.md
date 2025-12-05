@@ -16,9 +16,9 @@ I'm also studying CS at UCLA (class of '28).
 
 **Fun Facts:**
 
-🌴 Born and raised in Miami ✈️ Los Angeles
-🇪🇸 Fluent in English and Spanish
-🎵 Latin music is always playing in the background
-🏋️ Gym is how I debug my brain
-🤖 I stay obsessively current on AI tools — it's why I ship fast
-🛠️ Hobbies: anime, gaming, gym, and bulding things.
+🌴 Born and raised in Miami ✈️ Los Angeles<br>
+🇪🇸 Fluent in English and Spanish<br>
+🎵 Latin music is always playing in the background<br>
+🏋️ Gym is how I debug my brain<br>
+🤖 I stay obsessively current on AI tools — it's why I ship fast<br>
+🛠️ Hobbies: anime, gaming, gym, and bulding things.<br>
