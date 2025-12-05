@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**j-palacio/j-palacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan, a software engineer based in Miami.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is Swift, Python, TypeScript, React, FastAPI, and PostgreSQL. My favorite tools are Cursor, Claude, ChatGPT, and Figma.
+
+I've got a bunch of pinned projects, but the one I'm most proud of is Chrip — a progressive social media app I built that serves 50,000+ users daily.
+
+I was a founding engineer at Hakim AI, building voice-enabled visual generative AI applications with sub-250ms latency. Before that, I built backend systems handling 100K+ daily queries.
+
+I'm also studying CS at UCLA (class of '28).
+
+**Fun Facts:**
+
+🌴 Born and raised in Miami ✈️ Los Angeles
+🇪🇸 Fluent in English and Spanish
+🎵 Latin music is always playing in the background
+🏋️ Gym is how I debug my brain
+🤖 I stay obsessively current on AI tools — it's why I ship fast
+🛠️ Hobbies: anime, gaming, gym, and bulding things.
