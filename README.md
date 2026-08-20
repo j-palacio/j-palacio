@@ -12,7 +12,7 @@ I've got a bunch of pinned projects, but the one I'm most proud of is Chrip — 
 
 I was a founding engineer at Hakim AI, building voice-enabled visual generative AI applications with sub-250ms latency. Before that, I built backend systems handling 100K+ daily queries.
 
-I'm also studying CS at UCLA (class of '28).
+I'm also studying CS & Poli Sci at FIU (class of '28).
 
 **Fun Facts:**
 
